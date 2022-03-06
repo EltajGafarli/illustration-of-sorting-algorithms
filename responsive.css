@@ -1,4 +1,4 @@
-@media screen and (max-width:420px) {
+@media (max-width:420px) {
     .txt {
         position: absolute;
         left: 10px;
